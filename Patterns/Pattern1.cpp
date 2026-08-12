@@ -11,8 +11,9 @@ void pattern1(int n){
 }
 int main(){
     int n;
-    cout<<"Enter the no. ->" <<endl;
+    // cout<<"Enter the no. ->" <<endl;
     cin>>n;
     pattern1(n);
     return 0;
 }
+ 
